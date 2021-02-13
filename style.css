@@ -1,0 +1,92 @@
+img {
+    margin-top : 80px;
+    height : 200px;
+    width : 200px;
+    border-radius : 50%;
+    border-style : ridge;
+    border-color : deeppink;
+    border-width : 3px;
+    padding : 4px;
+}
+
+html{
+    text-align : center;
+    background-image: url(https://image.freepik.com/free-vector/acrylic-paint-pour-background-vector_53876-77805.jpg);
+    scroll-behavior : smooth;
+}
+
+h1{
+    font-size : 50px;
+    text-shadow: 2px 2px deeppink;
+    font-family: 'Lobster Two', cursive;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Handlee', cursive;
+}
+
+p {
+    font-size : 25px;
+    color : crimson;
+    background-color: lightpink;
+    border-radius : 20px;
+    font-family: 'Amaranth', sans-serif;
+}
+
+.line {
+    width : 7px;
+background-color: chocolate;
+}
+
+.menu {
+    list-style : none;
+    font-family: 'Open Sans', sans-serif;
+    position : fixed;
+    top : 0px;
+    right : 160px;
+    float : left;
+    cursor : pointer;
+    Font-weight : bold;
+    Font-style : Italics;
+    z-index : 10;
+    background: lightpink;
+    text-align : center;
+
+}
+
+
+.links:hover {
+background-color : palevioletred;
+    color : firebrick;
+    font-size : 28px;
+}
+
+h3 {
+    font-size : 45px;
+    font-family: 'Potta One', cursive;
+    color : black;
+    text-shadow: 4px 4px crimson;
+}
+
+h4 {
+    font-size : 24px;
+}
+
+h5 {
+    font-size : 25px;
+    font-family : sans-serif;
+    color : crimson;
+}
+
+
+.links {
+    float : left;
+    color : darkblue;
+    padding-top: 9px;
+    padding-bottom : 10px;
+    padding-left : 33px;
+    padding-right : 35px;
+ font-size : 25px;
+    display : inline;
+}
